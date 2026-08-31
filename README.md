@@ -14,10 +14,10 @@ Machine Learning
 - [Customer Churn Prediction](https://github.com/CMPE252/customer-churn-prediction) (classification problem)
 
 Data Analytics
-- 🚗 **[Electric Vehicle Adoption Analysis](https://github.com/mophan/electric-vehicle-adoption-analysis)**  
+- **[Electric Vehicle Adoption Analysis](https://github.com/mophan/electric-vehicle-adoption-analysis)**  
   Exploratory analysis of EV adoption trends in Washington State (Python, Pandas, Matplotlib)
 
-- 🚲 **[Cyclistic Bike Share Analysis](https://github.com/mophan/proj-cyclistic-bike-share-analysis)**  
+- **[Cyclistic Bike Share Analysis](https://github.com/mophan/proj-cyclistic-bike-share-analysis)**  
   Capstone case study using R + R Markdown with insights and recommendations to convert casual riders into members
 
 ## 🚧 In Progress
