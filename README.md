@@ -1,6 +1,7 @@
 ## Hi, I'm Anna 👋  
 
 Focus: AI Engineering • Machine Learning • Data Engineering & Analytics
+
 🎓 MS in Artificial Intelligence @ San José State University  
 📊 Background in Marketing Analytics & CRM (lifecycle + growth)
 
