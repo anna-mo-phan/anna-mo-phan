@@ -12,6 +12,7 @@ Focus: AI Engineering • Machine Learning • Data Engineering & Analytics
 Machine Learning
 - [Food Delivery Time Prediction](https://github.com/anna-mo-phan/proj-food-delivery-time-prediction) (regression problem)
 - [Customer Churn Prediction](https://github.com/CMPE252/customer-churn-prediction) (classification problem)
+- [Twitter volume anomaly detection](https://github.com/CMPE-255-G5/times-series-anomaly-detection-on-twitter-data)
 
 Data Analytics
 - **[Electric Vehicle Adoption Analysis](https://github.com/mophan/electric-vehicle-adoption-analysis)**  
