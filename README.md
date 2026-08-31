@@ -1,6 +1,6 @@
 ## Hi, I'm Anna 👋  
-**AI Engineering • Machine Learning • Data Engineering & Analytics**
 
+Focus: AI Engineering • Machine Learning • Data Engineering & Analytics
 🎓 MS in Artificial Intelligence @ San José State University  
 📊 Background in Marketing Analytics & CRM (lifecycle + growth)
 
@@ -10,7 +10,6 @@
 
 Machine Learning
 - [Food Delivery Time Prediction](https://github.com/anna-mo-phan/proj-food-delivery-time-prediction) (regression problem)
-
 - [Customer Churn Prediction](https://github.com/CMPE252/customer-churn-prediction) (classification problem)
 
 Data Analytics
