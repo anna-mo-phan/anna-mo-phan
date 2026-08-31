@@ -1,13 +1,19 @@
 ## Hi, I'm Anna 👋  
-**Data Analyst → Data & Analytics Engineering (AI-focused) | Python • SQL • Tableau • ML Foundations**
+**AI Engineering • Machine Learning • Data Engineering & Analytics**
 
-🔍 I turn messy data into clear insights and business decisions through analytics, experimentation, and ML.  
 🎓 MS in Artificial Intelligence @ San José State University  
 📊 Background in Marketing Analytics & CRM (lifecycle + growth)
 
 ---
 
 ## 🔥 Featured Projects
+
+Machine Learning
+- [Food Delivery Time Prediction](https://github.com/anna-mo-phan/proj-food-delivery-time-prediction) (regression problem)
+
+- [Customer Churn Prediction](https://github.com/CMPE252/customer-churn-prediction) (classification problem)
+
+Data Analytics
 - 🚗 **[Electric Vehicle Adoption Analysis](https://github.com/mophan/electric-vehicle-adoption-analysis)**  
   Exploratory analysis of EV adoption trends in Washington State (Python, Pandas, Matplotlib)
 
@@ -15,7 +21,6 @@
   Capstone case study using R + R Markdown with insights and recommendations to convert casual riders into members
 
 ## 🚧 In Progress
-- 🧠 Customer Churn Prediction — building end-to-end ML workflow (coming soon)
 - 🤖 LLM Product Case Study — exploring LLM-powered insights + product thinking (coming soon)
 
 ---
